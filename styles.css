@@ -1,0 +1,16 @@
+header {
+    display: inline;
+    font-size: 18px;
+    text-align: left;
+}
+
+nav {
+    float: right;
+    margin-right: 20px;
+}
+
+nav li {
+    display: inline-flex;
+    width:60px;
+    
+}
